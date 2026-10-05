@@ -1,8 +1,8 @@
 {
   "name": "vibecs",
   "displayName": "VibeCS support chat",
-  "version": "1.0.1",
-  "description": "A support chat bubble that answers visitors from the site's own pages. One skill: it finds the template that wraps every page, inserts the one-line VibeCS snippet, and points you to the dashboard that trains the bot on your live site.",
+  "version": "1.0.2",
+  "description": "Turn more visitors into customers. Your site answers their questions day and night from your own pages and sends you the visitors ready to buy. Ask Claude Code to add it and it's live in minutes.",
   "author": {
     "name": "VibeCS",
     "email": "jack@cs-vibe.com",

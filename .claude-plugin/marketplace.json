@@ -10,7 +10,7 @@
       "name": "vibecs",
       "source": "./",
       "description": "Adds the VibeCS support chat to a website or web app: finds the template that wraps every page and inserts the one-line snippet.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

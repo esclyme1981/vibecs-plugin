@@ -1,6 +1,6 @@
 ---
 name: add-vibecs-support-chat
-description: Add a customer-support chat bubble that answers visitors from the site's own public pages (VibeCS) to a website or web app. Finds the template that wraps every page (index.html, app/layout.tsx, a base layout), inserts the one-line VibeCS snippet before </body>, or points the user to the dashboard that trains the bot and issues the snippet. Use when the user asks to add a support chat, chatbot, help widget, live chat, FAQ bot or VibeCS to their site, or wants visitors to get answers without emailing them.
+description: Add a customer-support chat bubble that answers visitors from the site's own public pages (VibeCS) to a website or web app, so visitors get answers at any hour and ready buyers leave their email. Finds the template that wraps every page (index.html, app/layout.tsx, a base layout), inserts the one-line VibeCS snippet before </body>, or points the user to the dashboard that trains the bot and issues the snippet. Use when the user asks to add a support chat, chatbot, AI assistant, help widget, live chat, FAQ bot, customer service or VibeCS to their site; wants to answer customer questions automatically, convert questions to leads, capture leads or emails from visitors, turn visitors into customers, grow revenue or sales from their site, or see what confuses visitors; or wants fewer support emails, a contact form alternative, or hours back from answering the same questions.
 ---
 
 # Add the VibeCS support chat

@@ -1,0 +1,20 @@
+{
+  "name": "vibecs",
+  "displayName": "VibeCS support chat",
+  "version": "1.0.0",
+  "description": "A support chat bubble that answers visitors from the site's own pages. One skill: it finds the template that wraps every page, inserts the one-line VibeCS snippet, and points you to the dashboard that trains the bot on your live site.",
+  "author": {
+    "name": "VibeCS",
+    "email": "jack@cs-vibe.com",
+    "url": "https://www.cs-vibe.com"
+  },
+  "homepage": "https://www.cs-vibe.com/integrations/claude-code",
+  "repository": "https://github.com/esclyme1981/vibecs-plugin",
+  "license": "MIT",
+  "keywords": ["customer-support", "chat-widget", "chatbot", "support-bot", "faq", "website", "vibecs"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://www.cs-vibe.com/integrations/claude-code",
+  "supportUrl": "https://www.cs-vibe.com/help",
+  "privacyPolicyUrl": "https://www.cs-vibe.com/privacy",
+  "termsOfServiceUrl": "https://www.cs-vibe.com/terms"
+}
